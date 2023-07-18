@@ -1,0 +1,9 @@
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\bin\Debug\Domain.dll
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\bin\Debug\Domain.pdb
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\bin\Debug\DataAccess.dll
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\bin\Debug\DataAccess.pdb
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\obj\Debug\Domain.dll
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\Domain\obj\Debug\Domain.pdb

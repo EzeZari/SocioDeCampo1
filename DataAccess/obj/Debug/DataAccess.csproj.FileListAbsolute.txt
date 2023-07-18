@@ -1,0 +1,6 @@
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\NATALIA\source\repos\LoginLayeredCsharp\DataAccess\obj\Debug\DataAccess.pdb
