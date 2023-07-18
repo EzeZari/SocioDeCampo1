@@ -13,7 +13,7 @@ namespace DataAccess
          
         public ConnectionToSql()
         {
-            connectionString = "server=PC-ZARI;DataBase= MyCompany; itegrated security = true";
+            connectionString = "server=PC-ZARI;DataBase= MyCompany; integrated security = true";
         }
         protected SqlConnection GetConnection()
         {

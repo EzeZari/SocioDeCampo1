@@ -16,13 +16,12 @@ namespace Presentacion
     {
         List<string> elementosEliminados = new List<string>();
         List<String> listaJugadores = new List<string>();
-        private IconButton currentBtn;
-        private Panel leftborderBtn;
+       
         public form2()
         {
             InitializeComponent();
         }
-        //Metodos
+       
         private void Inicio_Load(object sender, EventArgs e)
         {
             txtPosicion.Items.AddRange(elementosEliminados.ToArray());

@@ -12,7 +12,7 @@ namespace Domain
         UserDao userDao = new UserDao();
         public bool LoginUser(string user, string pass)
         {
-            return userDao.login(user, pass); 
+            return userDao.Login(user, pass); 
         }
     }
 }
